@@ -10,7 +10,7 @@ Based on the model, the last_evaluation,number_project,tenure,overworked have th
 The HR department at Salifort Motors wants to take some initiatives to improve employee satis- faction levels at the company.If we can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
 
 ## Data Understanding
-The dataset from HR consisted of 14,999  rows,  10  columns.
+The dataset from HR consisted of 14,999  rows,  10  columns.     ！[left_ratio_pie](left_ratio.PNG)
 A pie chart shows how many employees left and how many remained.
 In connection to this, a feature was engineered to represent 
 What are the main factors causing employees to leave?
